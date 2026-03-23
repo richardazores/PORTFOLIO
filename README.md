@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **some private project**
 
-- 🌱 I’m currently learning **ReactJs,Node.JS,Express,Tailwin CSS**
-
 - 👯 I’m looking to collaborate on **Web Developement and Backend Projects**
 
 
@@ -18,28 +16,28 @@
 
 <h3 align="left">Sample Projects</h3>
 <p align="left">
- 🌐 Strategic Wealth Consultancy Project
+ 🌐 Strategic Wealth Consultancy Project:
 A web-based project showcasing a consultancy-style website with structured layout and design.
 </p>
 <p>
 🔗 Live Demo: https://richardazores.github.io/SampleProject/
 </p>
 <p>
- 🎓 TechoKids WebPages
+ 🎓 TechoKids WebPages:
 A website project focused on educational content
 </p> 
 <p>
 🔗 Website: https://technokids.com/
 </p>
 <p>
- 📱 InQui Application
+ 📱 InQui Application:
 A quiz game mobile application (APK) designed for testing the readiness of the user to invest.
 </p> 
 <p>
 📦 File:  https://drive.google.com/file/d/1d1B_V6orTPnG_u01OufkS2iDsp0PVAbS/view?usp=drive_link
 </p>
 <p>
- 🐾 Petshop CRUD System
+ 🐾 Petshop CRUD System:
 A Java-based CRUD system for managing pet shop records.
 </p>
 <p>
