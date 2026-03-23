@@ -24,3 +24,18 @@
 A web-based project showcasing a consultancy-style website with structured layout and design.
 🔗 Live Demo: https://richardazores.github.io/SampleProject/
 </p>
+<p>
+ 🎓 TechoKids WebPages
+A website project focused on educational content
+🔗 Website: https://technokids.com/
+</p>
+<p>
+ 📱 InQui Application
+A quiz game mobile application (APK) designed for testing the readiness of the user to invest.
+📦 File:  app-release-inqui-1.0.4.apk
+</p>
+<p>
+ 🐾 Petshop CRUD System
+A Java-based CRUD system for managing pet shop records.
+🔗 GitHub: https://github.com/richardazores/Petshop_Crud_JAVA
+</p>
