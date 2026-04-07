@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **some private project**
 
-- 👯 I’m looking to collaborate on **Web Developement and Backend Projects**
+- 👯 I’m looking to collaborate on **Web Development and Backend Projects**
 
 
 <h3 align="left">Connect with me:</h3>
